@@ -1,5 +1,5 @@
 # CSS HTML Form Designs
-Shamelessly copied from [Sanwebe (Saran Chamling)](https://www.sanwebe.com/2014/08/css-html-forms-designs) awesome blog. 
+Shamelessly copied from [Sanwebe (Saran Chamling)](https://www.sanwebe.com/2014/08/css-html-forms-designs) awesome blog. And published here under the same license.
 
 ## Changes
 Made a few changes to improve new features premariy 
